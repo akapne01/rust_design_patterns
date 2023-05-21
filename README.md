@@ -1,0 +1,1 @@
+More info about Rust Design Patterns can be found here: https://rust-unofficial.github.io/patterns/
