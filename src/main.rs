@@ -1,3 +1,5 @@
+mod idiom_coercion_arguments;
+
 fn main() {
-    println!("Hello, world!");
+    idiom_coercion_arguments::run();
 }
